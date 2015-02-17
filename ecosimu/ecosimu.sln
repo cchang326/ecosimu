@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecosimu", "ecosimu\ecosimu.vcxproj", "{AF5D3513-4C16-4ED0-8AC1-2033F92A9493}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecotest", "ecotest\ecotest.vcxproj", "{E7954AD1-0382-4D89-ADC2-B031E09B5F68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{AF5D3513-4C16-4ED0-8AC1-2033F92A9493}.Debug|Win32.Build.0 = Debug|Win32
 		{AF5D3513-4C16-4ED0-8AC1-2033F92A9493}.Release|Win32.ActiveCfg = Release|Win32
 		{AF5D3513-4C16-4ED0-8AC1-2033F92A9493}.Release|Win32.Build.0 = Release|Win32
+		{E7954AD1-0382-4D89-ADC2-B031E09B5F68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7954AD1-0382-4D89-ADC2-B031E09B5F68}.Debug|Win32.Build.0 = Debug|Win32
+		{E7954AD1-0382-4D89-ADC2-B031E09B5F68}.Release|Win32.ActiveCfg = Release|Win32
+		{E7954AD1-0382-4D89-ADC2-B031E09B5F68}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
