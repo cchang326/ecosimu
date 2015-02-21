@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecosimu", "ecosimu\ecosimu.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecotest", "ecotest\ecotest.vcxproj", "{E7954AD1-0382-4D89-ADC2-B031E09B5F68}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecogui", "ecogui\ecogui.vcxproj", "{C43E1CFC-E0D8-4798-96BE-6418858BB24D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{E7954AD1-0382-4D89-ADC2-B031E09B5F68}.Debug|Win32.Build.0 = Debug|Win32
 		{E7954AD1-0382-4D89-ADC2-B031E09B5F68}.Release|Win32.ActiveCfg = Release|Win32
 		{E7954AD1-0382-4D89-ADC2-B031E09B5F68}.Release|Win32.Build.0 = Release|Win32
+		{C43E1CFC-E0D8-4798-96BE-6418858BB24D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C43E1CFC-E0D8-4798-96BE-6418858BB24D}.Debug|Win32.Build.0 = Debug|Win32
+		{C43E1CFC-E0D8-4798-96BE-6418858BB24D}.Release|Win32.ActiveCfg = Release|Win32
+		{C43E1CFC-E0D8-4798-96BE-6418858BB24D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
